@@ -1,0 +1,2 @@
+# data
+dogrusal regresyon tahmin 
